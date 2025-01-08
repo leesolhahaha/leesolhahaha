@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-<!--
-**leesolhahaha/leesolhahaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 안녕하세요, 데이터 분석가를 꿈꾸는 이솔입니다! 👩‍💻
+Python, 데이터 시각화 및 AI 모델 개발에 관심이 있습니다.
+
+## 소개
+- 📊 데이터 분석 및 머신러닝 프로젝트 진행 중
+- 🛠️ 기술 스택: Python, Pandas, Seaborn
+
 
 Here are some ideas to get you started:
 
