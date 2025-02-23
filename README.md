@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 # 안녕하세요, AI개발자를 꿈꾸는 이솔입니다! 👩‍💻
-Python, 데이터 시각화 및 AI 모델 개발에 관심이 있습니다.
+Python, 데이터분석 및 시각화, AI 모델링에 관심이 있습니다.
 
 ## 소개
 - 📊 데이터 분석 및 머신러닝 프로젝트 진행 중
-- 🛠️ 기술 스택: Python, Pandas, Seaborn
+- 🛠️ 기술 스택: Python, SQL, Pandas, Numpy, Seaborn
 
 
 Here are some ideas to get you started:
